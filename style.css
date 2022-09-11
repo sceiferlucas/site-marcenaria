@@ -9,6 +9,11 @@ a{
 	color: white;
 }
 
+#banner{
+	width: 900px;
+	margin: auto;
+}
+
 a:hover{
 	color: black;
 }
